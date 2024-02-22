@@ -53,6 +53,11 @@ h1 {
   }
 body {
   background-color: rgb(100, 160, 255);
+  background-image: url(profileImg/bg.jfif);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
 }
 h1 {
     text-align: center;
